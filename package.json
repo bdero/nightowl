@@ -4,7 +4,8 @@
   "description": "Command line utilities for navigating the Western Governors University website.",
   "main": "nightowl.js",
   "dependencies": {
-    "casper": "^0.1.1"
+    "casper": "^0.1.1",
+    "docopt": "^0.6.2"
   },
   "devDependencies": {},
   "scripts": {
