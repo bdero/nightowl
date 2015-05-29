@@ -1,0 +1,2 @@
+ishell==0.1.4
+readline==6.2.4.1
